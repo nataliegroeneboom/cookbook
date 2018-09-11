@@ -1,3 +1,3 @@
-**Chapter 1: Tabs**
+**Chapter 1: Layout profile page**
 
-In this branch I am learning how to include tabs, and use a stateful component to determine which tab is active.
+In this branch I am learning how to create a simple layout with react-native
