@@ -22,5 +22,13 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "**Chapter 1: Tabs**",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliegroeneboom/cookbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nataliegroeneboom/cookbook/issues"
+  },
+  "homepage": "https://github.com/nataliegroeneboom/cookbook#readme"
 }
